@@ -2,4 +2,5 @@ field,display_name,btn,hidden,sort_name
 title,Title,,,
 story writer,Story Writer,,,
 artist,Artist,,,
+status,Status,,,
 genres,,true

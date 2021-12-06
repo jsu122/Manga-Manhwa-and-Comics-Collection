@@ -1,7 +1,9 @@
 field,index,display
 title,true,true
-date,true,true
-creator,true,false
 description,true,true
-subject,true,true
-location,true,false
+story writer,true,true
+artist,true,true
+status,true,true
+genres,true,true
+comic type,true,true
+latest chapter,true,true

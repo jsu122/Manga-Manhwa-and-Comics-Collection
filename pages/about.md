@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="purple lightning.jpg" %}
+{% include feature/jumbotron.html objectid="https://www.rj.my/wp-content/uploads/2017/05/TOA-release-header.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 

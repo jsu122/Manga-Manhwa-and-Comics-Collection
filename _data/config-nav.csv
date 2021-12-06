@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Genres,/subjects.html
+Status,/status.html
+Genres,/genres.html
+Comic Type,/comic type.html
 Data,/data.html
 About,/about.html

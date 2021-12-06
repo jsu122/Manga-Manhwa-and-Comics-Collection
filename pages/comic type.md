@@ -5,7 +5,8 @@ permalink: /comic type.html
 # Default comic type page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.comic type-fields"
 # a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.comic type-fields
+
+cloud-fields: comic type
 ---
 
 ## Browse Comic Types

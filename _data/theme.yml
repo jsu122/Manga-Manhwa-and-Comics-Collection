@@ -28,6 +28,21 @@ genres-min: 1 # min size for subject cloud, too many terms = slow load time!
 genres-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
+# COMIC TYPE PAGE
+#
+comic type-fields: comic type # set the field to be featured in the cloud (if left blank, none will be generated)
+comic type-min: 1 # min size for subject cloud, too many terms = slow load time!
+comic type-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+
+##########
+# STATUS PAGE
+#
+status-fields: status # set the field to be featured in the cloud (if left blank, none will be generated)
+status-min: 1 # min size for subject cloud, too many terms = slow load time!
+status-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+
+
+##########
 # LOCATIONS PAGE
 #
 locations-fields: location # set the field to be featured in the cloud

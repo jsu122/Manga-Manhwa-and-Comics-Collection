@@ -1,5 +1,9 @@
 field,display_name
 title,Title
-date,Date
 description,Description
-subject,Subjects
+story writer,Story Writer
+artist,Artist
+status,Status
+genres,Genres
+comic type,Comic Type
+latest chapter,Latest Chapter

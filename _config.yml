@@ -37,6 +37,13 @@ author: Jeanne Su
 metadata: collectionbuilder-metadata-Sheet1 
 
 ##########
+# GENRES PAGE
+#
+genres-fields: Action;Adventure;Comedy;Historical;Isekai;Martial Arts;Modern;Reincarnation # set the field to be featured in the cloud (if left blank, none will be generated)
+genres-min: 1 # min size for subject cloud, too many terms = slow load time!
+genres-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+
+##########
 # GOOGLE SERVICES [optional!]
 #
 # leave these blank or comment out to NOT include google code. See docs/google.md

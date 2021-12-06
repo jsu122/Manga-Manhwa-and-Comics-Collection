@@ -1,15 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+story writer,Story Writer,
+artist,Artist,
+status,Status
+genres,Genres,true
+comic type, Comic Type
+latest chapter, Latest Chapter
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true

@@ -64,3 +64,8 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
+  
+  
+########
+# Subject info
+subjects-fields: genres;

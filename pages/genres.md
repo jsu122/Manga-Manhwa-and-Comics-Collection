@@ -6,7 +6,7 @@ permalink: /genres.html
 # leave cloud-fields as "site.data.theme.genres-fields"
 # a cloud visualization will be added below the content in this file
 
-cloud-fields: site.data.theme.genres-fields
+cloud-fields: genres
 ---
 
 ## Browse Genres
